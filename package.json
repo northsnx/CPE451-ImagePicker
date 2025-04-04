@@ -9,7 +9,9 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/bottom-tabs": "^7.3.8",
     "expo": "~52.0.42",
+    "expo-image-picker": "~16.0.6",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
     "react-native": "0.76.8"
