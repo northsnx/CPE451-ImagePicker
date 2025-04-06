@@ -2,7 +2,6 @@
 `expo-image-picker` is a library that provides access to the system's native UI for selecting images or videos from the device's media library, or for capturing new media using the camera. It's a convenient tool for apps that require user media input.
 
 
-
 ## ✨Features
 - Select images from the device's gallery
 - Capture new images using the camera
@@ -60,6 +59,16 @@
    ```sh
    npm start
    ```
+
+## 🔗 Related Links
+
+| Resource | Link |
+|----------|------|
+| 🎥 YouTube (Presentation Video) | [Watch Here](https://youtu.be/1dbrWPKALRw) |
+| 🖼️ Canva (Presentation Slides) | [View Here](https://www.canva.com/design/DAGjdj43LAQ/3gXF46-yxkJyNK8FBpPU3A/view?utm_content=DAGjdj43LAQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5191c74d47) |
+| 💻 GitHub Repository | [Visit Repo](https://github.com/northsnx/CPE451-ImagePicker) |
+| 📱 Snack Expo Live Demo | [Try Now](https://snack.expo.dev/@northsnx/cpe451-imagepicker) |
+| 📚 Expo ImagePicker Documentation | [Read Docs](https://docs.expo.dev/versions/latest/sdk/imagepicker/) |
 
 
 ## 👨‍💻Credits
